@@ -6,7 +6,7 @@ Machine Learning Engineer
 
 As a Machine Learning Engineer, I specialize in Generative AI, Large Language Models (LLMs), and excel in regression and classification. With a developer's mindset, I ensure seamless deployment for practical application. Passionate about pushing AI boundaries, I contribute to innovative advancements in the field.
 
-* 🌍  I'm based in Abu Dhabi
+* 🌍  I'm based in Abu Dhabi, UAE
 * 🖥️  See my portfolio at [My Website](http://arsh-10.github.io/Portofolio/)
 * ✉️  You can contact me at [arshmanshahbazakbar@gmail.com](mailto:arshmanshahbazakbar@gmail.com)
 * 🚀  I'm currently working on [AI Healthcare using LLMs](http://www.linkedin.com/posts/arshman-shahbaz_insightday2-datascience-nlp-activity-7114526944804651008-ynYm?utm_source=share&utm_medium=member_desktop)
